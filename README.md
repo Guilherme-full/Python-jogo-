@@ -1,6 +1,6 @@
 # Jogo em Python
 
-## Download 
+## Comando Para Clonar Repositório
 ```
 git clone https://github.com/Guilherme-full/Python-jogo-.git
 ```
