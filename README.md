@@ -2,7 +2,7 @@
 
 ## Download 
 ```
-gh repo clone Guilherme-full/Python-jogo-
+git clone https://github.com/Guilherme-full/Python-jogo-.git
 ```
 
 |          | Linux | macOS | Windows |
